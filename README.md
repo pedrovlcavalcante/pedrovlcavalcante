@@ -4,7 +4,7 @@ Olá, me chamo Pedro, sou estudante de Economia.
 
 Atualmente venho estudando Python focado em Ciência de Dados, fazendo uso das bibliotecas Pandas, Numpy e Matplotlib.  
 Utilizarei esse repositório com a finalidade de compartilhar meus conhecimentos, o que venho aprendendo e minha evolução ao longo dessa jornada bem como
-alguns projetos que irei produzir.
+alguns projetos que irei produzir. Atualmente busco colocação no mercado de dados.
 
 O que você encontrará aqui:  
 
