@@ -1,17 +1,13 @@
 # Pedro Cavalcante  
 
-Olá, me chamo Pedro, sou estudante de Economia.
-
-Atualmente venho estudando Python focado em Ciência de Dados, fazendo uso das bibliotecas Pandas, Numpy e Matplotlib.  
-Utilizarei esse repositório com a finalidade de compartilhar meus conhecimentos, o que venho aprendendo e minha evolução ao longo dessa jornada bem como
-alguns projetos que irei produzir. Atualmente busco colocação no mercado de dados.
+Formado em Economia pela Universidade Federal do Ceará, faço análises de dados utilizando Python e Power BI
 
 O que você encontrará aqui:  
 
 - Projetos de análise e visualização de dados
 - Projetos de Machine Learning
 
-e outros assuntos relativos a Python e Ciência de Dados
+e outros assuntos relativos a Python e Análise de Dados
 
 ## Contatos:
 
